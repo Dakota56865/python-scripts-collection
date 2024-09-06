@@ -13,3 +13,4 @@ ORDER BY total_revenue DESC;
 SELECT AVG(payment.amount) AS avg_spent
 FROM payment;
 
+
