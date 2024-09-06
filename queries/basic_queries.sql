@@ -12,3 +12,4 @@ LIMIT 10;
 SELECT AVG(DATE_PART('day', rental.return_date - rental.rental_date)) AS avg_rental_duration
 FROM rental;
 
+
