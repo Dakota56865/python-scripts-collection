@@ -2,7 +2,7 @@
 
 Overview
 
-This project, developed for the Achievement 4 Instacart Grocery Basket Analysis, aims to uncover valuable insights into customer purchasing behaviors. Instacart is an online grocery service, and this analysis will assist their marketing and sales teams in understanding customer profiles and optimizing their targeted campaigns.
+This project, developed for Instacart Grocery Basket Analysis, aims to uncover valuable insights into customer purchasing behaviors. Instacart is an online grocery service, and this analysis will assist their marketing and sales teams in understanding customer profiles and optimizing their targeted campaigns.
 
 The project focuses on answering key questions, such as:
 
