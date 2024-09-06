@@ -1,9 +1,9 @@
 # SQL Queries
 
-This folder contains the SQL queries used to analyze the Rockbuster Stealth data.
+This folder contains SQL queries for the Rockbuster Stealth project:
 
-## Files:
-- `basic_queries.sql`: Contains basic queries for retrieving data from individual tables.
-- `join_queries.sql`: Includes complex queries that demonstrate joins across multiple tables.
-- `subqueries.sql`: Provides examples of subqueries for more advanced data analysis.
-- `aggregate_functions.sql`: Demonstrates the use of aggregate functions to summarize and analyze data.
+- `basic_queries.sql`: Contains simple queries for selecting and aggregating data.
+- `join_queries.sql`: Contains SQL queries that perform joins between multiple tables.
+- `subqueries.sql`: Includes more complex SQL queries with subqueries.
+- `aggregate_functions.sql`: Shows examples of how to use aggregate functions like SUM(), AVG(), and COUNT().
+- `cte_queries.sql`: Demonstrates the use of Common Table Expressions (CTEs) for complex analysis.
