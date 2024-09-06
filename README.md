@@ -1,27 +1,34 @@
-# Instacart Grocery Basket Analysis
+# Rockbuster Stealth SQL Analysis
 
 # Overview
-This project, developed for Instacart Grocery Basket Analysis, aims to uncover valuable insights into customer purchasing behaviors. Instacart is an online grocery service, and this analysis will assist their marketing and sales teams in understanding customer profiles and optimizing their targeted campaigns.
+The Rockbuster Stealth SQL Analysis project was developed for the Rockbuster Stealth LLC movie rental company. Facing competition from streaming services like Netflix and Amazon Prime, Rockbuster Stealth is planning to launch an online video rental service using its existing movie licenses.
 
-# The project focuses on answering key questions, such as:
-When are the busiest days and times for orders?
+As a data analyst for Rockbuster’s Business Intelligence department, this project involved using SQL to analyze their existing data and answer key business questions posed by management. These insights will help shape the company’s strategy for the upcoming online service.
 
-What price ranges and product types are most popular?
+# The data analysis covers:
+Identifying which movies contributed the most/least to revenue.
 
-How does customer loyalty affect ordering habits?
+Exploring customer locations and sales distribution by region.
 
-What are the demographic trends in customer orders?
+Analyzing rental duration and customer lifetime value.
 
 # Key Features
-Python-based data analysis using Pandas, NumPy, Matplotlib, and Seaborn.
+Loading and querying data from a PostgreSQL database.
 
-Exploratory data analysis (EDA) on customer and product data to identify patterns.
+Writing complex SQL queries to analyze various aspects of the company’s operations.
 
-Visualizations to communicate insights on purchasing behaviors and segmentation strategies.
+Presenting findings in visual format to support Rockbuster’s management team.
+
+# Resources
+Project Dataset
+
+PostgreSQL Installation Guide: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
+Tableau Report: https://public.tableau.com/app/profile/dakota.smerglia/vizzes
 
 # Project Highlights
-Comprehensive customer segmentation analysis based on purchase history.
+SQL Queries for business insights such as movie performance, rental duration, and customer distribution.
 
-Visualizations highlighting sales trends, customer loyalty, and demographic differences.
+Data visualizations created using SQL and Tableau to present key findings.
 
-Data-driven recommendations for improving targeted marketing strategies.
+Comprehensive SQL analysis with detailed answers to business questions.
